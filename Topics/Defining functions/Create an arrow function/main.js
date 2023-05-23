@@ -1,0 +1,1 @@
+const returnNumber = number => number;// Write a function returnNumber here
